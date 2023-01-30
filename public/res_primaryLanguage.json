@@ -1,52 +1,29 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Olá",
+      "description": "👋 Eu sou Juniel Filappi. Sou Full Stack Developer e estou trabalhando com os mais novos frameworks como React, Vue, Adonis.Js e Laravel. Eu amo trabalhar com tecnologia e estou sempre procurando novas oportunidades para aprender e crescer.",
       "section_name": {
-        "about": "About me",
-        "projects": "Projects",
-        "skills": "Skills",
-        "experience": "Experience"
+        "about": "Sobre mim",
+        "projects": "Projetos",
+        "skills": "Habilidades",
+        "experience": "Expêriencias"
       }
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Piperun MAX",
+        "startDate": "2022",
+        "description": "Esta extensão permite usar os principais recursos do CRM PipeRun sem sair da tela das principais plataformas.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/piperun-max/p0.jpeg",
+          "images/portfolio/piperun-max/p1.jpeg",
+          "images/portfolio/piperun-max/p2.jpeg"
         ],
-        "url": "",
+        "url": "https://chrome.google.com/webstore/detail/piperun-max-crm-no-whatsa/pcpopepajoicgemeoopcgkdafmcjkeid?hl=pt-BR",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-vuejs-plain",
+            "name": "Vue.Js"
           },
           {
             "class": "devicon-javascript-plain",
@@ -55,63 +32,83 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "QualOPrazo",
+        "startDate": "2020",
+        "description": "QualOPrazo foi desenvolvido para ajudar os advogados a calcular o prazo de um processo.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/qualoprazo/p1.jpg"
         ],
-        "url": "https://github.com",
+        "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-adonisjs-plain",
+            "name": "Adonis.Js"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          }
+        ]
+      },
+      {
+        "title": "Paróquia Virtual",
+        "startDate": "2019",
+        "description": "A paróquia virtual contribuirá para o reconhecimento e expansão do alcance da Palavra de Deus, fazendo a diferença na comunicação com seus paroquianos.",
+        "images": [
+          "images/portfolio/paroquia-virtual/p0.webp",
+          "images/portfolio/paroquia-virtual/p1.webp" 
+        ],
+        "url": "https://dompixel.app",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
           },
           {
             "class": "devicon-typescript-plain",
             "name": "TypeScript"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-laravel-plain",
+            "name": "Laravel"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "PipeRun",
+        "title": "FullStack Developer",
+        "years": "10.2022 - presente",
         "mainTech": [
-          "Angular 8/9/10"
+          "JavaScript"
         ],
         "technologies": [
           "REST API",
-          "RxJS",
+          "TypesCript",
           "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Vue.Js"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "DomPixel",
+        "title": "FullStack Developer",
+        "years": "05.2019 - 10.2022",
         "mainTech": [
-          "Angular 7/8"
+          "JavaScript"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
+          "REST API",
+          "TypesCript",
+          "Swagger",
           "JavaScript",
-          "DHTMLX Gantt"
+          "Adonis.Js",
+          "Node.Js",
+          "Vue.Js",
+          "React.Js",
+          "React Native",
+          "DevOps",
+          "Laravel"
         ]
       }
     ]

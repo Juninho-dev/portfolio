@@ -172,7 +172,7 @@ header h1 {
 
 .polaroid img {
 	display: block;
-	max-width: 200px;
+	max-width: 250px;
 }
 
 .polaroid span {
@@ -225,6 +225,8 @@ header h1 {
 .experience-icon {
 	font-size: 300%;
 	margin-top: 25%;
+	display: flex;
+	justify-content: center;
 	text-align: center;
 }
 
