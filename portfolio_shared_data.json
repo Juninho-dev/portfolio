@@ -1,0 +1,83 @@
+{
+    "basic_info": {
+      "name": "Juniel Filappi",
+      "titles": [ "Front-end Developer", "Back-end Developer", "Mobile App Developer" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/Juninho-dev",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/junielfilappi",
+          "class": "fab fa-instagram"
+        }
+      ],
+      "image": "myProfile.jpeg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "Laravel",
+          "class": "devicon-laravel-plain",
+          "level": "80"
+        },
+        {
+          "name": "Node.Js",
+          "class": "devicon-nodejs-plain",
+          "level": "80"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain",
+          "level": "90"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "70"
+        },
+        {
+          "name": "Vue.Js",
+          "class": "devicon-vuejs-plain",
+          "level": "70"
+        },
+        {
+          "name": "Express.Js",
+          "class": "devicon-express-original",
+          "level": "70"
+        },
+        {
+          "name": "Adonis.Js",
+          "class": "devicon-adonisjs-original",
+          "level": "75"
+        },
+        {
+          "name": "Tailwind",
+          "class": "devicon-tailwindcss-plain",
+          "level": "85"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        }
+      ]
+    }
+  }
