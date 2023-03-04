@@ -1,115 +1,135 @@
 {
-    "basic_info": {
-      "description_header": "Olá",
-      "description": "👋 Eu sou Juniel Filappi. Sou Full Stack Developer e estou trabalhando com os mais novos frameworks como React, Vue, Adonis.Js e Laravel. Eu amo trabalhar com tecnologia e estou sempre procurando novas oportunidades para aprender e crescer.",
-      "section_name": {
-        "about": "Sobre mim",
-        "projects": "Projetos",
-        "skills": "Habilidades",
-        "experience": "Expêriencias"
-      }
-    },
-    "projects": [
-      {
-        "title": "Piperun MAX",
-        "startDate": "2022",
-        "description": "Esta extensão permite usar os principais recursos do CRM PipeRun sem sair da tela das principais plataformas.",
-        "images": [
-          "images/portfolio/piperun-max/p0.jpeg",
-          "images/portfolio/piperun-max/p1.jpeg",
-          "images/portfolio/piperun-max/p2.jpeg"
-        ],
-        "url": "https://chrome.google.com/webstore/detail/piperun-max-crm-no-whatsa/pcpopepajoicgemeoopcgkdafmcjkeid?hl=pt-BR",
-        "technologies": [
-          {
-            "class": "devicon-vuejs-plain",
-            "name": "Vue.Js"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "QualOPrazo",
-        "startDate": "2020",
-        "description": "QualOPrazo foi desenvolvido para ajudar os advogados a calcular o prazo de um processo.",
-        "images": [
-          "images/portfolio/qualoprazo/p1.jpg"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-adonisjs-plain",
-            "name": "Adonis.Js"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          }
-        ]
-      },
-      {
-        "title": "Paróquia Virtual",
-        "startDate": "2019",
-        "description": "A paróquia virtual contribuirá para o reconhecimento e expansão do alcance da Palavra de Deus, fazendo a diferença na comunicação com seus paroquianos.",
-        "images": [
-          "images/portfolio/paroquia-virtual/p0.webp",
-          "images/portfolio/paroquia-virtual/p1.webp" 
-        ],
-        "url": "https://dompixel.app",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-laravel-plain",
-            "name": "Laravel"
-          }
-        ]
-      }
+  "basic_info": {
+    "description_header": "Olá",
+    "first_description": "👋 Olá me chamo Juniel, como desenvolvedor fullstack, ofereço serviços para a criação de aplicativos e sites de alta qualidade, desde o design até a implementação e manutenção. Tenho experiência em diversas linguagens de programação e frameworks, incluindo:",
+    "skills_description": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Node.Js",
+      "PHP",
+      "React.Js",
+      "Laravel",
+      "MySql",
+      "Postgresql",
+      "Vue.Js",
+      "React Native",
+      "Adonis.Js",
+      "Typescript",
+      "AWS",
+      "SCRUM"
     ],
-    "experience": [
-      {
-        "company": "PipeRun",
-        "title": "FullStack Developer",
-        "years": "10.2022 - presente",
-        "mainTech": [
-          "JavaScript"
-        ],
-        "technologies": [
-          "REST API",
-          "TypesCript",
-          "JavaScript",
-          "Vue.Js"
-        ]
-      },
-      {
-        "company": "DomPixel",
-        "title": "FullStack Developer",
-        "years": "05.2019 - 10.2022",
-        "mainTech": [
-          "JavaScript"
-        ],
-        "technologies": [
-          "REST API",
-          "TypesCript",
-          "Swagger",
-          "JavaScript",
-          "Adonis.Js",
-          "Node.Js",
-          "Vue.Js",
-          "React.Js",
-          "React Native",
-          "DevOps",
-          "Laravel"
-        ]
-      }
-    ]
-  }
+    "second_description": "O que me permite desenvolver projetos personalizados de acordo com as necessidades de cada cliente. Além disso, estou sempre atualizado com as últimas tendências e tecnologias do mercado, garantindo que cada projeto seja desenvolvido com as melhores práticas de desenvolvimento de software. Estou comprometido em fornecer um trabalho de qualidade, cumprindo prazos e trabalhando em estreita colaboração com meus clientes para garantir que suas expectativas sejam atendidas. Se você está procurando um desenvolvedor fullstack confiável e experiente para o seu próximo projeto, não hesite em entrar em contato comigo para discutir suas necessidades.",
+    "section_name": {
+      "about": "Sobre mim",
+      "projects": "Projetos",
+      "skills": "Habilidades",
+      "experience": "Expêriencias"
+    }
+  },
+  "projects": [
+    {
+      "title": "Piperun MAX",
+      "startDate": "2022",
+      "description": "Esta extensão permite usar os principais recursos do CRM PipeRun sem sair da tela das principais plataformas.",
+      "images": [
+        "images/portfolio/piperun-max/p0.jpeg",
+        "images/portfolio/piperun-max/p1.jpeg",
+        "images/portfolio/piperun-max/p2.jpeg"
+      ],
+      "url": "https://chrome.google.com/webstore/detail/piperun-max-crm-no-whatsa/pcpopepajoicgemeoopcgkdafmcjkeid?hl=pt-BR",
+      "technologies": [
+        {
+          "class": "devicon-vuejs-plain",
+          "name": "Vue.Js"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "QualOPrazo",
+      "startDate": "2020",
+      "description": "QualOPrazo foi desenvolvido para ajudar os advogados a calcular o prazo de um processo.",
+      "images": [
+        "images/portfolio/qualoprazo/p1.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-adonisjs-plain",
+          "name": "Adonis.Js"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        }
+      ]
+    },
+    {
+      "title": "Paróquia Virtual",
+      "startDate": "2019",
+      "description": "A paróquia virtual contribuirá para o reconhecimento e expansão do alcance da Palavra de Deus, fazendo a diferença na comunicação com seus paroquianos.",
+      "images": [
+        "images/portfolio/paroquia-virtual/p0.webp",
+        "images/portfolio/paroquia-virtual/p1.webp"
+      ],
+      "url": "https://dompixel.app",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-laravel-plain",
+          "name": "Laravel"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "PipeRun",
+      "title": "FullStack Developer",
+      "years": "10.2022 - presente",
+      "mainTech": [
+        "JavaScript"
+      ],
+      "technologies": [
+        "REST API",
+        "TypesCript",
+        "JavaScript",
+        "Vue.Js",
+        "SCRUM",
+        "Laravel"
+      ]
+    },
+    {
+      "company": "DomPixel",
+      "title": "FullStack Developer",
+      "years": "05.2019 - 10.2022",
+      "mainTech": [
+        "JavaScript"
+      ],
+      "technologies": [
+        "REST API",
+        "TypesCript",
+        "Swagger",
+        "JavaScript",
+        "Adonis.Js",
+        "Node.Js",
+        "Vue.Js",
+        "React.Js",
+        "React Native",
+        "DevOps",
+        "Laravel"
+      ]
+    }
+  ]
+}
