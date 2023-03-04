@@ -16,6 +16,7 @@ class Skills extends Component {
                   >
                     {skills.name}
                   </p>
+                  <p style={{ fontSize: "30%", fontWeight: "bold", margin: 0 }}>{skills.year} anos</p>
                 </i>
               </div>
             </span>

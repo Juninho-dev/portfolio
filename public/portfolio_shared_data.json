@@ -21,61 +21,73 @@
         {
           "name": "HTML 5",
           "class": "devicon-html5-plain",
+          "year": "3",
           "level": "95"
         },
         {
           "name": "CSS 3",
           "class": "devicon-css3-plain",
+          "year": "3",
           "level": "95"
         },
         {
           "name": "Laravel",
           "class": "devicon-laravel-plain",
+          "year": "3",
           "level": "80"
         },
         {
           "name": "Node.Js",
           "class": "devicon-nodejs-plain",
+          "year": "3",
           "level": "80"
         },
         {
           "name": "TypeScript",
           "class": "devicon-typescript-plain",
+          "year": "2",
           "level": "90"
         },
         {
           "name": "JavaScript",
           "class": "devicon-javascript-plain",
+          "year": "3",
           "level": "70"
         },
         {
           "name": "React",
           "class": "devicon-react-plain",
+          "year": "3",
           "level": "70"
         },
         {
           "name": "Vue.Js",
           "class": "devicon-vuejs-plain",
+          "year": "3",
           "level": "70"
         },
         {
           "name": "Express.Js",
           "class": "devicon-express-original",
+          "year": "3",
           "level": "70"
         },
         {
           "name": "Adonis.Js",
           "class": "devicon-adonisjs-original",
+          "year": "2",
           "level": "75"
         },
         {
           "name": "Tailwind",
           "class": "devicon-tailwindcss-plain",
+          "year": "2",
           "level": "85"
         },
         {
           "name": "MySql",
           "class": "devicon-mysql-plain",
+          "year": "3",
           "level": "60"
         }
       ]

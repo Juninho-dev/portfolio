@@ -12,7 +12,9 @@ class About extends Component {
     if (this.props.resumeBasicInfo) {
       var sectionName = this.props.resumeBasicInfo.section_name.about;
       var hello = this.props.resumeBasicInfo.description_header;
-      var about = this.props.resumeBasicInfo.description;
+      var about = this.props.resumeBasicInfo.first_description;
+      var about_second = this.props.resumeBasicInfo.second_description;
+      var skills = this.props.resumeBasicInfo.skills_description;
     }
 
     return (
@@ -81,6 +83,14 @@ class About extends Component {
                     <br />
                     <br />
                     {about}
+                    <ul className="grid">
+                    {skills && skills.map((item, i) => (
+                      <li key={i}>
+                        {item}
+                      </li>
+                    ))}
+                     </ul>
+                     {about_second}
                   </div>
                 </div>
               </div>
